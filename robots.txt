@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-t5zup7.nanastoto44sct.site/sitemap.xml
